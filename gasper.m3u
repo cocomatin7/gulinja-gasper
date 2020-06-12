@@ -1,4 +1,92 @@
 #EXTM3U
+
+#EXTINF:-1 ,US | Telemundo
+http://plus-tv.us:8080/live/1899/1899/14578.ts
+#EXTINF:-1 ,US | Telemundo Chicago
+http://plus-tv.us:8080/live/1899/1899/14579.ts
+#EXTINF:-1 ,US | Telemundo LA
+http://plus-tv.us:8080/live/1899/1899/14580.ts
+#EXTINF:-1 ,US | Telemundo Miami
+http://plus-tv.us:8080/live/1899/1899/14581.ts
+#EXTINF:-1 ,US | Telemundo Texas
+http://plus-tv.us:8080/live/1899/1899/14582.ts
+#EXTINF:-1 ,US | Univision
+http://plus-tv.us:8080/live/1899/1899/14583.ts
+#EXTINF:-1 ,US | NBC Universo
+http://plus-tv.us:8080/live/1899/1899/14584.ts
+#EXTINF:-1 ,US | Discovery
+http://plus-tv.us:8080/live/1899/1899/14586.ts
+#EXTINF:-1 ,US | Cinemax East
+http://plus-tv.us:8080/live/1899/1899/14595.ts
+#EXTINF:-1 ,US | EPIX
+http://plus-tv.us:8080/live/1899/1899/14596.ts
+#EXTINF:-1 ,US | Starz
+http://plus-tv.us:8080/live/1899/1899/14602.ts
+#EXTINF:-1 ,US | Starz Black
+http://plus-tv.us:8080/live/1899/1899/14603.ts
+#EXTINF:-1 ,US | HBO ESP
+http://plus-tv.us:8080/live/1899/1899/14604.ts
+#EXTINF:-1 ,US | HBO ZONE
+http://plus-tv.us:8080/live/1899/1899/14605.ts
+#EXTINF:-1 ,US | STARZ ESP
+http://plus-tv.us:8080/live/1899/1899/14606.ts
+#EXTINF:-1 ,US | STARZ EDGE
+http://plus-tv.us:8080/live/1899/1899/14607.ts
+#EXTINF:-1 ,US | HBO Signature ESP
+http://plus-tv.us:8080/live/1899/1899/14608.ts
+#EXTINF:-1 ,US | HBO
+http://plus-tv.us:8080/live/1899/1899/14610.ts
+#EXTINF:-1 ,US | HBO Latino
+http://plus-tv.us:8080/live/1899/1899/14611.ts
+#EXTINF:-1 ,US | Cinemax
+http://plus-tv.us:8080/live/1899/1899/14612.ts
+#EXTINF:-1 ,US | USA Network
+http://plus-tv.us:8080/live/1899/1899/14617.ts
+#EXTINF:-1 ,US | HBO Family
+http://plus-tv.us:8080/live/1899/1899/14618.ts
+#EXTINF:-1 ,US | Hbo Siganture
+http://plus-tv.us:8080/live/1899/1899/14619.ts
+#EXTINF:-1 ,US | HBO Comedy
+http://plus-tv.us:8080/live/1899/1899/14624.ts
+#EXTINF:-1 ,US | Discovery Velocity
+http://plus-tv.us:8080/live/1899/1899/14631.ts
+#EXTINF:-1 ,US | Own Channel
+http://plus-tv.us:8080/live/1899/1899/14632.ts
+#EXTINF:-1 ,US | HBO West
+http://plus-tv.us:8080/live/1899/1899/14635.ts
+#EXTINF:-1 ,US | H2
+http://plus-tv.us:8080/live/1899/1899/14639.ts
+#EXTINF:-1 ,US | ESPN DEPORTES HD
+http://plus-tv.us:8080/live/1899/1899/14643.ts
+#EXTINF:-1 ,US | BEIN SPORTS LA LIGA
+http://plus-tv.us:8080/live/1899/1899/14644.ts
+#EXTINF:-1 ,US | UFC TV
+http://plus-tv.us:8080/live/1899/1899/14646.ts
+#EXTINF:-1 ,US | FIGHTING SPORTS
+http://plus-tv.us:8080/live/1899/1899/14647.ts
+#EXTINF:-1 ,US | Eleven Sports
+http://plus-tv.us:8080/live/1899/1899/14648.ts
+#EXTINF:-1 ,US | ESPN
+http://plus-tv.us:8080/live/1899/1899/14649.ts
+#EXTINF:-1 ,US | ESPN News
+http://plus-tv.us:8080/live/1899/1899/14650.ts
+#EXTINF:-1 ,US | ESPN U
+http://plus-tv.us:8080/live/1899/1899/14651.ts
+#EXTINF:-1 ,US | Fight Network
+http://plus-tv.us:8080/live/1899/1899/14652.ts
+#EXTINF:-1 ,US | Fox Sports 1
+http://plus-tv.us:8080/live/1899/1899/14653.ts
+#EXTINF:-1 ,US | Fox Sports 2
+http://plus-tv.us:8080/live/1899/1899/14654.ts
+#EXTINF:-1 ,US | Fox Soccer Plus
+http://plus-tv.us:8080/live/1899/1899/14655.ts
+#EXTINF:-1 ,Fox Sport 1 Usa
+http://cdn.miip.tv:8080/canada/123456/537
+#EXTINF:-1 ,Fox Sport Usa 2
+http://cdn.miip.tv:8080/canada/123456/538
+#EXTINF:-1 ,ESPN USA
+http://cdn.miip.tv:8080/canada/123456/541
+
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/program/c_-1898472178.png" group-title="STARTIMES",ST Novela E +
 http://ms-azure-video.gslb.startimestv.com/live_record/ST_NOVELA_E_PLUS_631_500_480x360_7781/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.startimestv.com/static/image/product/7324f1d5-ed32-4e96-afc1-a4ecba60111e.png" group-title="STARTIMES",ST Rise
